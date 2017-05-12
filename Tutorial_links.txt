@@ -1,0 +1,10 @@
+
+https://www.tensorflow.org/api_docs/python/
+
+https://pythonprogramming.net
+
+jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
+
+https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.3fy3fm3zk
+
+https://github.com/martin-gorner/tensorflow-mnist-tutorial/blob/master/mnist_2.2_five_layers_relu_lrdecay_dropout.py
